@@ -1,0 +1,92 @@
+#header
+{
+width:100%;
+height:40px;
+position:relative;
+background:#dfe9f3;
+color:#000;
+font-weight:bold;
+text-align:center;
+padding-top:10px;
+margin-top:-8px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+}
+body
+{
+	background:#f3f0f0;
+}
+#menu_bar
+{
+height:30px;
+width:100%;
+position:relative;
+background:#5b758c;
+}
+
+#menu1,#menu2,#menu3,#menu4,#menu5,#menu6
+{
+width:150px;
+height:23px;
+border-right:#FFFFFF 1px solid;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:bold;
+text-align:center;
+padding-top:7px;
+color:#fff;
+cursor:pointer;
+}
+#stu_info  td
+{
+	border:#FFF 1px solid;
+	height:25px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#stu_info  th
+{
+	background:#CCC;
+	height:20px;
+	color:#000;
+	border:#FFF 0px solid;
+	font-weight:bold;
+}
+#credit_info td
+{
+	border:#FFF 1px solid;
+	height:18px;
+	font-weight:bold;
+}
+      
+#stu_info  td
+{
+	border:#FFF 1px solid;
+	height:20px;
+}
+
+#form_info td
+{
+	border:#FFF 1px solid;
+	height:20px;
+}
+
+#block_info th
+{
+	background:#5b758c;
+	height:20px;
+	color:#FFF;
+	border:#FFF 1px solid;
+	font-weight:normal;
+	
+	
+	
+}
+#block_info  td
+{
+	border:#FFF 1px solid;
+	height:20px;
+	
+}
+.style13 {color: #000000}
+.style15 {color: #000066}

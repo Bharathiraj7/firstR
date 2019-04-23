@@ -1,0 +1,23 @@
+#panel1
+{
+	Width:32%;
+	height:600px;
+	border:0px solid #000;
+	float:left;
+}
+#panel2
+{
+	Width:32%;
+	height:600px;
+	border:0px solid #000;
+	float:left;
+	margin-left:1%;
+}
+#panel3
+{
+	Width:32%;
+	height:600px;
+	border:0px solid #000;
+	float:left;
+	margin-left:1%;
+}
